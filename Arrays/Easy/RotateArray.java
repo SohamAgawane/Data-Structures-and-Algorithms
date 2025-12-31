@@ -1,4 +1,3 @@
-package Leetcode189;
 
 import java.util.Arrays;
 

@@ -44,13 +44,14 @@ public class LeftRotation {
 
         // Step-1 : reverse a array -
         reverse(arr, 0, n - 1);
+        System.out.println(Arrays.toString(arr));
 
         // Step-2 : reverse first (length - k) numbers -
         reverse(arr, 0, n - k - 1);
+        System.out.println(Arrays.toString(arr));
 
         // Step-3 : Reverse last k numbers -
         reverse(arr, n - k, n- 1);
-
         System.out.println(Arrays.toString(arr));
     }
 }
