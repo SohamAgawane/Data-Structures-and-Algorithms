@@ -1,4 +1,4 @@
-package Leetcode1672;
+package Arrays.Medium.Leetcode1672;
 
 import java.util.Arrays;
 
