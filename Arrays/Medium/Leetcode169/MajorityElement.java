@@ -1,4 +1,4 @@
-package Leetcode169;
+package Arrays.Medium.Leetcode169;
 
 import java.util.Arrays;
 import java.util.HashMap;

@@ -1,9 +1,9 @@
-package Arrays.Medium.LongestSubarrayWithSumK;
+package Arrays.Medium.Leetcode560;
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class PositiveNegative {
+public class LongestSubarrayWithSumK {
     public static void main(String[] args) {
         int[] nums = {1,2,3,1,1,1,1,4,2,3};
         System.out.println(subarray(nums, 5));
