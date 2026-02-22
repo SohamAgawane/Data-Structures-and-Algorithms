@@ -31,12 +31,7 @@ public class SetMismatch {
                 return new int[]{nums[index], index+1};
             }
         }
-
-        int[] result = new int[list.size()];
-        for(int j=0; j<list.size(); j++) {
-            result[j] = list.get(j);
-        }
-        return result;
+        return new int[]{-1,-1};
     }
 
     public static void swap(int[] nums, int first, int second) {
