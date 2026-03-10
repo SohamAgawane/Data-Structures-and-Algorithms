@@ -1,4 +1,4 @@
-package Medium;
+
 
 class MyLinkedList {
     private class Node {
